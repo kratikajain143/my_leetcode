@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kratikajain143/my_leetcode/tree/master/0054-spiral-matrix) |
 | [0496-next-greater-element-i](https://github.com/kratikajain143/my_leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kratikajain143/my_leetcode/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
@@ -47,8 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kratikajain143/my_leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kratikajain143/my_leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kratikajain143/my_leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kratikajain143/my_leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
