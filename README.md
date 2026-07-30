@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kratikajain143/my_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0496-next-greater-element-i](https://github.com/kratikajain143/my_leetcode/tree/master/0496-next-greater-element-i) |
 | [0641-design-circular-deque](https://github.com/kratikajain143/my_leetcode/tree/master/0641-design-circular-deque) |
+| [0704-binary-search](https://github.com/kratikajain143/my_leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kratikajain143/my_leetcode/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kratikajain143/my_leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/kratikajain143/my_leetcode/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kratikajain143/my_leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
