@@ -1,6 +1,6 @@
 class Solution {
     public int maxProduct(int[] nums) {
-                int prefix = 1;
+        int prefix = 1;
         int suffix = 1;
         int ans = Integer.MIN_VALUE;
         int n = nums.length;
