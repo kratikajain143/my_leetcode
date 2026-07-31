@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/kratikajain143/my_leetcode/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/kratikajain143/my_leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kratikajain143/my_leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/kratikajain143/my_leetcode/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/kratikajain143/my_leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kratikajain143/my_leetcode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
