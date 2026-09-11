@@ -139,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/kratikajain143/my_leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/kratikajain143/my_leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1045-customers-who-bought-all-products](https://github.com/kratikajain143/my_leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1729-find-followers-count](https://github.com/kratikajain143/my_leetcode/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kratikajain143/my_leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
