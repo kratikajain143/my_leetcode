@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/kratikajain143/my_leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1193-monthly-transactions-i](https://github.com/kratikajain143/my_leetcode/tree/master/1193-monthly-transactions-i) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/kratikajain143/my_leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1661-average-time-of-process-per-machine](https://github.com/kratikajain143/my_leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1729-find-followers-count](https://github.com/kratikajain143/my_leetcode/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kratikajain143/my_leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
