@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kratikajain143/my_leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/kratikajain143/my_leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/kratikajain143/my_leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0626-exchange-seats](https://github.com/kratikajain143/my_leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/kratikajain143/my_leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1174-immediate-food-delivery-ii](https://github.com/kratikajain143/my_leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/kratikajain143/my_leetcode/tree/master/1193-monthly-transactions-i) |
