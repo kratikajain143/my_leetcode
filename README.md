@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/kratikajain143/my_leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/kratikajain143/my_leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/kratikajain143/my_leetcode/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/kratikajain143/my_leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kratikajain143/my_leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/kratikajain143/my_leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/kratikajain143/my_leetcode/tree/master/0596-classes-with-at-least-5-students) |
