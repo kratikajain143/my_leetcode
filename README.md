@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/kratikajain143/my_leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kratikajain143/my_leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1174-immediate-food-delivery-ii](https://github.com/kratikajain143/my_leetcode/tree/master/1174-immediate-food-delivery-ii) |
+| [1179-reformat-department-table](https://github.com/kratikajain143/my_leetcode/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/kratikajain143/my_leetcode/tree/master/1193-monthly-transactions-i) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/kratikajain143/my_leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/kratikajain143/my_leetcode/tree/master/1661-average-time-of-process-per-machine) |
