@@ -1,12 +1,7 @@
-SELECT id AS Id
-FROM (
-    SELECT 
-        id,
-        recordDate,
-        temperature,
-        LAG(recordDate) OVER (ORDER BY recordDate) AS prev_date,
-        LAG(temperature) OVER (ORDER BY recordDate) AS prev_temp
+SELECT Id FROM(
+    SELECT id AS Id,recordDate,temperature,
+    LAG(temperature) OVER(ORDER BY recordDate ASC) AS prev_temp,
+    LAG(recordDate) OVER(ORDER BY recordDate ASC) AS prev_date
     FROM Weather
-) t
-WHERE recordDate = DATE_ADD(prev_date, INTERVAL 1 DAY)
-  AND temperature > prev_temp;
+)cte
+WHERE prev_temp<temperature and recordDate=DATE_ADD(prev_date,INTERVAL 1 DAY);
